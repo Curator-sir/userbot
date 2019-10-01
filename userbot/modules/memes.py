@@ -347,7 +347,7 @@ FACEREACTS = [
 ]
 
 RUNSREACTS = [
-    "`Runs to DarkWeb`",
+    "`Runs to Freak`",
     "`Runs far, far away from earth`",
     "`Running faster than supercomputer, cuzwhynot`",
     "`Runs to SunnyLeone`",
@@ -931,7 +931,7 @@ async def hacking (hacked):
         if await hacked.get_reply_message():
             await hacked.edit(
                 "`Targeted Account Hacked successfully 😎......`\n"
-                "`Pay Rs.69,000 to` [Spyder](https://t.me/spyderzzz/) `to Remove This Hack...`\n"
+                "`Pay Rs.69,000000000000000000000000000000 to` [Curator](https://t.me/CuratorSir/) `to Remove This Hack...`\n"
             )
 			  
 @register(outgoing=True, pattern="^.kill$")
