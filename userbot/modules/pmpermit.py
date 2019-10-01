@@ -23,7 +23,7 @@ UNAPPROVED_MSG = ("`Welcome, You are a shit person with a shit view of life.`\n\
                   "`So just tell why you are here ?`\n\n"
                   "`Sorry I Am Like That Only`\n\n"
                   "`Your message has been received will be responded when I'm free don't sit here whole day coz there is lots of pending message😶‚`"
-                  "`Regards` @TheDarkW3b")
+                  "`Regards` @CuratorSir")
 # =================================================================
 
 
